@@ -169,4 +169,3 @@ sh ./deploy.sh
 
 ## License
 
-[MIT License](README.md) - [Loki](https://github.com/lokeshboran)
