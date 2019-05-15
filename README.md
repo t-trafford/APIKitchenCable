@@ -48,7 +48,7 @@ cd apikitchencable
 rm -rf .git
 ```
 
-Install dependencies:
+Install package provider:
 
 ```bash
 npm
