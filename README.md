@@ -62,4 +62,8 @@ npm run dev
 
 ## Steps
 
-1. 
+1. Install node.js and mongodb globally inside local environment.
+2. install all packages by navigating to project director using command cd apikitchencab
+3. run command npm install inside apikitchencable directory from terminal/cmd.
+4. type mongod in terminal to start mongodb services
+5. npm run dev inorder to run api on node server.
