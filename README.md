@@ -1,6 +1,6 @@
-#API Kitchen Cable
+# API Kitchen Cable
 
-RESTful APIs and microservices using Node.js, Express and MongoDB
+RESTful APIs using Node.js, Express and MongoDB to maintain kitchen cable application backend.
 
 ## Packages & Dependencies
 
