@@ -36,7 +36,7 @@ Boilerplate/Generator/Starter Project for building RESTful APIs and microservice
 Clone the repo and make it yours:
 
 ```bash
-git clone --depth 1 https://github.com/lokeshboran/god-of-mischief-api
+git clone --depth 1 https://github.com/t-trafford/APIKitchenCable
 cd apikitchencable
 rm -rf .git
 ```
